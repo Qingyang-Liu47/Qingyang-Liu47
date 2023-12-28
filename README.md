@@ -25,10 +25,11 @@ My name is Qingyang Liu (Ciara). I am currently a graduate student in the Master
 - 🔮 Fun fact: I got two adorable American Shorthairs 🐈🐈‍⬛. I'm an OG Kpop stan 👯.
 
 ### ✨ Tools I've Used
-
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
