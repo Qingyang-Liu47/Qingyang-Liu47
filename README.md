@@ -25,18 +25,19 @@ My name is Qingyang Liu (Ciara). I am currently a graduate student in the Master
 - 🔮 Fun fact: I got two adorable American Shorthairs 🐈🐈‍⬛. I'm an OG Kpop stan 👯.
 
 ### Tools I've Used 🛠️
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+[![mlds](https://skillicons.dev/icons?i=py,cpp,c,javascript,r,mysql,postgresql,git,pytorch,tensorflow,aws,azure,mongodb,html,css,react,nodejs,flask,latex,vscode&perline=20&theme=light)](https://skillicons.dev)
 
 ### GitHub History 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qingyang-Liu47&show_icons=true&theme=dark&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qingyang-Liu47&show_icons=true&theme=light&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime ⌛️
 New to this tool... Let's see how it goes!
 
 [![wakatime](https://wakatime.com/badge/user/018cb28f-c6c5-47b6-a8b5-7b343b8dada3.svg)](https://wakatime.com/@018cb28f-c6c5-47b6-a8b5-7b343b8dada3)
+
+<!--START_SECTION:waka-->
+
+```txt
+```
+
+<!--END_SECTION:waka-->
