@@ -29,7 +29,7 @@ My name is Qingyang Liu (Ciara). I am currently a graduate student in the Master
 [![mlds](https://skillicons.dev/icons?i=py,cpp,c,javascript,r,mysql,postgresql,git,pytorch,tensorflow,aws,azure,mongodb,html,css,react,nodejs,flask,latex,vscode&perline=20&theme=light)](https://skillicons.dev)
 
 ### GitHub History 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qingyang-Liu47&show_icons=true&theme=light&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingyangliu0065&show_icons=true&theme=light&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime ⌛️
 New to this tool... Let's see how it goes!
