@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me 🐱
 
-My name is Qingyang Liu (Ciara). I am currently a graduate student in the Masters of Computational Data Science (MCDS) program at Carnegie Mellon University 🐕‍🦺. I completed my undergraduate study at the University of Michigan - Ann Arbor 💙💛. My enthusiasm for AI is particularly focused on responsible AI practices, Natural Language Processing, and the integration of AI in software engineering. I'm keen on exploring these domains further and contributing to their advancement in meaningful ways.
+My name is Qingyang Liu (Ciara). I am currently a graduate student in the Masters of Computational Data Science (MCDS) program at Carnegie Mellon University 🐕‍🦺. I completed my undergraduate study with double majors in Data Science and Economics at the University of Michigan - Ann Arbor 💙💛. My enthusiasm for AI is particularly focused on responsible AI practices, Natural Language Processing, and the integration of AI in software engineering. I'm keen on exploring these domains further and contributing to their advancement in meaningful ways.
 
 - 😄 Pronouns: She/Her/Her
 - 📫 Email: ciaraliuqy@gmail.com
