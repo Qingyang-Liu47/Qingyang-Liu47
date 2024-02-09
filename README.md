@@ -37,8 +37,4 @@ New to this tool... Let's see how it goes!
 [![wakatime](https://wakatime.com/badge/user/018cb28f-c6c5-47b6-a8b5-7b343b8dada3.svg)](https://wakatime.com/@018cb28f-c6c5-47b6-a8b5-7b343b8dada3)
 
 <!--START_SECTION:waka-->
-
-```txt
-```
-
 <!--END_SECTION:waka-->
