@@ -32,7 +32,6 @@ My name is Qingyang Liu (Ciara). I am currently a graduate student in the Master
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qingyangliu0065&show_icons=true&theme=light&icon_color=67b21f)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime ⌛️
-New to this tool... Let's see how it goes!
 
 [![wakatime](https://wakatime.com/badge/user/018cb28f-c6c5-47b6-a8b5-7b343b8dada3.svg)](https://wakatime.com/@018cb28f-c6c5-47b6-a8b5-7b343b8dada3)
 
