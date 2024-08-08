@@ -22,7 +22,7 @@ My name is Qingyang Liu (Ciara). I am currently a graduate student in the Master
 - 😄 Pronouns: She/Her/Her
 - 📫 Email: ciaraliuqy@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/qingyangliu0605/
-- 💼 I am actively seeking **MLE/SDE/DS** internships in summer 2024!!
+- 💼 I am actively seeking 2025 **MLE/SDE/DS** full time roles!!
 - 🔮 Fun fact: I got two adorable American Shorthairs 🐈🐈‍⬛. I'm an OG Kpop stan 👯.
 
 ### Tools I've Used 🛠️
